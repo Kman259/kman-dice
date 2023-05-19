@@ -4,7 +4,7 @@ Simple dice script for Fivem and ox_inventory
 Dice script that has 5 different colored dice items. 
 Use the dice item to roll 2, 6 sided dice or right click to have the option to roll 1 or 3 dice.
 
-##Install
+## Installation
 1. Add the folder to your resource folder and ensure it in your server's config
 2.Copy and paste the following lines into your items.lua
 ```lua
@@ -139,7 +139,7 @@ Use the dice item to roll 2, 6 sided dice or right click to have the option to r
 		}
 	},
   ```
-  3. Added the png files from the images folder to ox_inventory>web>images
+  3. Add the png files from the images folder to ox_inventory>web>images
   4. If you want you can paste the following code into ox_inventory>data>shops.lua if you want to have a store that sells the items
   ```lua
   Dice = {
