@@ -8,7 +8,7 @@ Use the dice item to roll 2, 6 sided dice or right click to have the option to r
 
 ## Installation
 1. Add the folder to your resource folder and ensure it in your server's config
-2.Copy and paste the following lines into your items.lua
+2. 2.Copy and paste the following lines into your items.lua
 ```lua
 ["dice_b"] = {
 		label = "Dice",
